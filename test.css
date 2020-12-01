@@ -1,0 +1,57 @@
+body{
+    position: relative;
+}
+#main11{padding-top:50px;height:200px;color:#fff;background-color: #1E88E5;}
+
+#main{
+    background-image: url("imagesnew.jpg");
+    padding: 2px;
+    background-size: cover;
+    margin-bottom: auto;
+    height: 300;
+}
+#xx{
+    margin-top:80px;
+}
+.mai{
+    margin-left: 200;
+}
+.card-text{
+    font-size: 12;
+}
+#main2{
+    background-image: url("images44.jpg");
+    background-size: cover;
+    height: 200;
+}
+
+.b6 .b8{
+    height:300px;
+}
+#main11{
+    background-image: url("images44.jpg");
+    padding: 2px;
+    background-size: cover;
+    margin-bottom: auto;
+    height: 550;
+    opacity: 1.5;
+}
+#xy{
+    margin: 50;
+    background-color:  rgba(245,245,245,0.4);
+}
+.tt{
+    margin-left: 170px;
+
+}
+#main4 .cc{
+    width:250px;
+    
+
+}
+.po{
+    background-color:  rgba(245,245,245,0.4);
+}
+.co{
+    margin-left: 240px;
+}
